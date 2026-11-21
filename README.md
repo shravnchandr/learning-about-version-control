@@ -1,5 +1,7 @@
 # Learning about Version Control
 
+## Author: Shravan Chandra
+
 Solving merge conflicts takes conscious effort, but I can do it!
 
 The ability to act as a time machine that lets you instantly roll back mistakes to a previous safe state gives you complete peace of mind.
